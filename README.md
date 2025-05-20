@@ -7,7 +7,7 @@ This Tableau project presents a detailed analysis of customer and country-level 
 
 
 📌 **Content Overview: Top 10 Customers by Revenue**
-![Result]((https://github.com/Shubham-Gupta7/Revenue-Insights-Dashboard-2011-Analysis/blob/main/Results/Top_10_Customers_By_Revenue.jpg))
+![Result](https://github.com/Shubham-Gupta7/Revenue-Insights-Dashboard-2011-Analysis/blob/main/Results/Top_10_Customers_By_Revenue.jpg)
 
 Insights:
 - **Customer 14646** leads with $280,206 in revenue, far ahead of others — a critical revenue contributor.
