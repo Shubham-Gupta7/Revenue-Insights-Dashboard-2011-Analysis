@@ -3,6 +3,8 @@
 This Tableau project presents a detailed analysis of customer and country-level revenue performance, time-based trends, and global market opportunities. The insights help identify key revenue drivers and opportunities for business expansion.
 
 🗂️ Key Dashboards
+![Dasboard](https://github.com/Shubham-Gupta7/Revenue-Insights-Dashboard-2011-Analysis/blob/main/Results/Dashboard.jpg)
+
 
 📌 **Content Overview: Top 10 Customers by Revenue**
 ![Result]((https://github.com/Shubham-Gupta7/Revenue-Insights-Dashboard-2011-Analysis/blob/main/Results/Top_10_Customers_By_Revenue.jpg))
